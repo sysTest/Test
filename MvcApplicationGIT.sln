@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationGIT", "MvcApplicationGIT\MvcApplicationGIT.csproj", "{89B5A02D-F573-4034-A91C-5E70D39E7E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationGIT.Tests", "MvcApplicationGIT.Tests\MvcApplicationGIT.Tests.csproj", "{1165BCDC-A866-44D4-A4BA-6D0A5E13187A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B5A02D-F573-4034-A91C-5E70D39E7E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B5A02D-F573-4034-A91C-5E70D39E7E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B5A02D-F573-4034-A91C-5E70D39E7E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B5A02D-F573-4034-A91C-5E70D39E7E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1165BCDC-A866-44D4-A4BA-6D0A5E13187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1165BCDC-A866-44D4-A4BA-6D0A5E13187A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1165BCDC-A866-44D4-A4BA-6D0A5E13187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1165BCDC-A866-44D4-A4BA-6D0A5E13187A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
